@@ -1,0 +1,101 @@
+body{
+    color: #010a09;
+    margin: 0;
+    text-align: center;
+    font-family: Verdana,sans-serif;
+}
+h1{
+    margin-top: 0;
+    font-family: 'Alkatra', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 5px;
+}  
+h2{
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 7.525rem;
+    font-weight: normal;
+    color: #66BFBF;
+    padding-bottom: 10px;
+   
+}
+h3{
+    font-family: 'Ruda', sans-serif;
+    color: #11999E;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.25rem;
+    line-height: 2;
+    
+}
+.top-container{
+    background-color: aqua;
+    height: 600px;
+    width: 100%;
+    padding: 20px;
+    border: solid 10px;
+    
+}
+.middle-container{
+    margin: px 0;
+}
+.bottom-container{
+    margin-top: 10px;
+    background-color: #66BFBF;
+}
+hr{
+    border: dotted #11999E;
+    margin: 100px auto;
+    width: 4%;
+}
+.contact{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+a{
+    color: #11999E;
+    margin: 20px 10px;
+
+}
+a:hover{
+    color:black;
+}
+.skill-row{
+    width: 50%;
+}
+.codeimg{
+    float: right;
+}
+.intro{
+    width:30%;
+}
+.btn {
+    background: #34d947;
+    background-image: -webkit-linear-gradient(top, #34d947, #2c3fb8);
+    background-image: -moz-linear-gradient(top, #34d947, #2c3fb8);
+    background-image: -ms-linear-gradient(top, #34d947, #2c3fb8);
+    background-image: -o-linear-gradient(top, #34d947, #2c3fb8);
+    background-image: linear-gradient(to bottom, #34d947, #2c3fb8);
+    -webkit-border-radius: 100;
+    -moz-border-radius: 100;
+    border-radius: 100px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #493cfc;
+    background-image: -webkit-linear-gradient(top, #493cfc, #d94d34);
+    background-image: -moz-linear-gradient(top, #493cfc, #d94d34);
+    background-image: -ms-linear-gradient(top, #493cfc, #d94d34);
+    background-image: -o-linear-gradient(top, #493cfc, #d94d34);
+    background-image: linear-gradient(to bottom, #493cfc, #d94d34);
+    text-decoration: none;
+  }
+  .puransh{
+
+  }
